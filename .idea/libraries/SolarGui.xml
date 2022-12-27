@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SolarGui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/SolarGui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
